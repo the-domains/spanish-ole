@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Spanish ¡Ole!]]></title>
         <description><![CDATA[Spanish ¡Ole!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/spanish-ole/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 23:48:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 18 Jun 2016 23:53:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spanish-ole/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>ñkldjñjfadsñjfañljdñfjañlsdjfñajñdfjñafdksjf</p>]]></description>
+            <link>https://thegrid.ai/spanish-ole/nkldjnjfadsnjfanljdnfjanlsdjfnajndfjnafdksjf/index.html</link>
+            <guid isPermaLink="false">a852098b-cad3-4ae8-9853-fc856cbc7532</guid>
+            <pubDate>Sat, 18 Jun 2016 23:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db555ee0-9638-4eb5-8ecc-fce82679f7ed.jpg">]]></description>
+            <link>https://thegrid.ai/spanish-ole/4fe46aab-0fb6-433b-97bf-d9dabb4d9081/index.html</link>
+            <guid isPermaLink="false">4fe46aab-0fb6-433b-97bf-d9dabb4d9081</guid>
+            <pubDate>Sat, 18 Jun 2016 23:50:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b33d6341-4f7d-43ae-b26f-d1d136f280d6.jpg">]]></description>
-            <link>undefineda35385e3-0327-4a95-b36b-b27e09e562ff/index.html</link>
+            <link>https://thegrid.ai/spanish-ole/a35385e3-0327-4a95-b36b-b27e09e562ff/index.html</link>
             <guid isPermaLink="false">a35385e3-0327-4a95-b36b-b27e09e562ff</guid>
             <pubDate>Sat, 18 Jun 2016 23:48:01 GMT</pubDate>
         </item>
