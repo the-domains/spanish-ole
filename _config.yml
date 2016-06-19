@@ -1,7 +1,7 @@
 name: Spanish ¡Ole!
 favicon: null
 layout_spectrum: 0.4235783964395523
-typography_spectrum: 0.0735323412809521
+typography_spectrum: 0.83543
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.9003761205822229
-  lightness: 0.7880813567899168
-  saturation: 0.16204653517343104
+  brandStrength: 0.8125
+  lightness: 0.3125
+  saturation: 0.8125
   rhythmicContrast: 0.6732641418930143
 purpose: []
